@@ -1,15 +1,10 @@
-### Hi there 👋
-
-<!--
-**Stevnlinton/Stevnlinton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# 
-💫 About Me:
-🔭I'm Pursing Software Engineering @ Western Governors University ... 
-🌱I'm Currently working on Frontend Web Development 
-🤔Im looking to collaborate on Real-World WebDev Projects
-💡Im looking for help with Object-Oriented Programming with C++
-⏳I'm currently Javascript
-💬 Ask me bout Privacy and Confidentiality in Healthcare
+💫 About Me<br>
+🔭I'm Pursing Software Engineering @ Western Governors University<br> 
+🌱I'm Currently working on Frontend Web Development<br> 
+🤔Im looking to collaborate on Real-World WebDev Projects<br>
+💡Im looking for help with Object-Oriented Programming with C++<br>
+⏳I'm currently Javascript<br>
+💬 Ask me bout Privacy and Confidentiality in Healthcare<br>
  ⚡ Fun fact: 1 of 18 children <br>
 
 
@@ -25,5 +20,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Stevnlinton&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
